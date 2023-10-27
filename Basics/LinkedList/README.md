@@ -16,6 +16,7 @@ This repository contains a C implementation of a linked list data structure. It 
 To compile the program, open your terminal and navigate to the project's root directory. Then, run the following command:
 ```bash
 make
+```
 
 Then tap :
 ```bash
