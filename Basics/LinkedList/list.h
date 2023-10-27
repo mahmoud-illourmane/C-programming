@@ -4,7 +4,7 @@
 #include "cell.h"
 
 /**
- * @brief Structure representing a doubly linked list
+ * @brief Structure representing a linked list
  */
 typedef struct list_t {
     cell *head;
