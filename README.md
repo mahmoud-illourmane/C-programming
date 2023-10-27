@@ -14,3 +14,6 @@ The repository includes the following implementations:
   
 3. **Breadth-First Traversal of a Graph**:
    - Implementation of a Breadth-First Traversal of a Graph in C.
+
+4. **Depth-First Traversal of a Graph**:
+   - Implementation of a Depth-First Traversal of a Graph in C.
