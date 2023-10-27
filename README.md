@@ -11,3 +11,6 @@ The repository includes the following implementations:
 
 2. **Graphs – Representation**:
    - Implementation of a basic graph in C.
+  
+3. **Breadth-First Traversal of a Graph**:
+   - Implementation of a Breadth-First Traversal of a Graph in C.
