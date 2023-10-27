@@ -17,3 +17,6 @@ To compile the program, open your terminal and navigate to the project's root di
 ```bash
 make
 
+Then tap :
+```bash
+./main
