@@ -6,7 +6,7 @@ This repositories contains a collection of C codes that implement various algori
 
 1. **Data-Structures**:
    - Implementation of a simple Linked list 
-   - Implementation of a Hash Tble using a linked list
+   - Implementation of a Hash Table using a linked list
 
 2. **Basics**:
    - Graphs – Representation
