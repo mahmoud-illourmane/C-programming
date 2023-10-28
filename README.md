@@ -1,10 +1,8 @@
 # Algorithmic Structures in C
 
-This repository contains a collection of C codes that implement various algorithmic structures. Each code is designed to illustrate and demonstrate a specific algorithmic structure.
+This repositories contains a collection of C codes that implement various algorithmic structures. Each code is designed to illustrate and demonstrate a specific algorithmic structure.
 
 ## Contents
-
-The repositories includes the following implementations:
 
 1. **Data-Structures**:
    - Implementation of a simple Linked list 
