@@ -10,13 +10,11 @@ This repository provides an implementation of an undirected and unweighted graph
 - Make sure you have `make` installed.
 
 ### Compilation
-
-To compile the program, open your terminal and navigate to the project's root directory. Then, run the following command:
 ```bash
 make
 ```
 
-Then tap :
+### Execution
 ```bash
 ./main
 ```
