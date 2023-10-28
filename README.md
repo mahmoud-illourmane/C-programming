@@ -4,16 +4,18 @@ This repository contains a collection of C codes that implement various algorith
 
 ## Contents
 
-The repository includes the following implementations:
+The repositories includes the following implementations:
 
-1. **Linked Lists**:
-   - Implementation of a simple linked list in C.
+1. **Data-Structures**:
+   - Implementation of a simple Linked list 
+   - Implementation of a Hash Tble using a linked list
 
-2. **Graphs – Representation**:
-   - Implementation of a basic graph in C.
+2. **Basics**:
+   - Graphs – Representation
+   - Breadth-First Traversal of a Graph
+   - Implementation of a Breadth-First Traversal of a Graph using a queue
+   - Implementation of a Depth-First Traversal of a Graph using a stack
+
+
   
-3. **Breadth-First Traversal of a Graph**:
-   - Implementation of a Breadth-First Traversal of a Graph in C using a queue.
 
-4. **Depth-First Traversal of a Graph**:
-   - Implementation of a Depth-First Traversal of a Graph in C using a stack.
