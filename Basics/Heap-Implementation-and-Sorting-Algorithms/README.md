@@ -3,10 +3,11 @@
 ## Overview
 
 ## The content is:
-  1- Implementation of a heap structure.
-  2- Programming and comparison of two different sorting algorithms: insertion sort and heap sort.
-  3- Recognition of weighted graphs.
+  1. **Implementation of a heap structure**
+  2. **Programming and comparison of two different sorting algorithms: insertion sort and heap sort**
+  3. **Recognition of weighted graphs**
 
+     
 ## Getting Started
 
 ### Prerequisites
