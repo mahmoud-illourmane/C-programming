@@ -19,6 +19,7 @@ int main(int argc, const char *argv[]) {
 
     // Choose possible operations
     while (choice != 0) {
+        printf("===Linked List of number===\n");
         printf("================\nTo add an element, enter: 1\nTo remove the last inserted element, enter: 2\nTo display the list, enter: 3\nTo remove an element, enter: 4\nTo clear the list, enter: 5\nTo exit, enter: 0\n================\n");
         
         err = scanf("%d", &choice);
