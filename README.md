@@ -10,9 +10,9 @@ This repositories contains a collection of C codes that implement various algori
 
 2. **Basics**:
    - Graphs – Representation
-   - Breadth-First Traversal of a Graph
    - Implementation of a Breadth-First Traversal of a Graph using a queue
    - Implementation of a Depth-First Traversal of a Graph using a stack
+   - Heap Implementation and Sorting Algorithms
 
 
   
