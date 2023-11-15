@@ -2,10 +2,6 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-/**
- * @brief Function that initializes an empty list
- * @param l Pointer to a list
- */
 void init_list(list *l) {
     l->head = NULL;
 }
